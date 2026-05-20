@@ -1,9 +1,41 @@
-# Employee Attendance System
+Employee Attendance System is a web-based application developed using Laravel 12 and MySQL to help companies manage employee attendance data efficiently and systematically.
 
-## Dashboard Preview
+This system provides employee management features, attendance tracking, dashboard statistics, and authentication functionality within a responsive and modern user interface.
 
-![Dashboard](C:/Users/H P/Pictures/Screenshots/Screenshot 2026-05-20 130408.png)
+---
 
-## Employee Management
+## Features
 
-![Employee](C:/Users/H P/Pictures/Screenshots/Screenshot 2026-05-20 130421.png)
+### Authentication
+- User Login
+- User Registration
+- Logout System
+- Middleware Protection
+
+### Dashboard
+- Total Employees
+- Total Attendance Records
+- Employees Present Today
+- Employees Absent Today
+- Attendance Statistics Overview
+
+### Employee Management
+- Add Employee Data
+- Edit Employee Data
+- Delete Employee Data
+- Search Employee
+- Pagination
+- Upload Employee Profile Photo
+
+### Attendance Management
+- Employee Check In
+- Employee Check Out
+- Attendance History
+- Attendance Status
+- Date Filtering
+
+### Security & Validation
+- Form Request Validation
+- CSRF Protection
+- Secure File Upload Handling
+- Eloquent ORM Usage
